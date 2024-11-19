@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Contact Us
-permalink: /contact us/
+title: Contact
+permalink: /contact/
 ---
 
 ### Contact Glamis Hall
